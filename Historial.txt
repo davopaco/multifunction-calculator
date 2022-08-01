@@ -1,0 +1,46 @@
+
+	MON JUL 25 10:47:36 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de IMC
+Peso = 70.0 kg	Altura = 180.0 cm	IMC = 21.6
+
+	MON JUL 25 10:47:48 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de IMC
+OPCIÓN------------> Cálculo de Edad
+Día 1: 20 Mes 1: Octubre Año 1: 2002
+Día 2: 25 Mes 2: Julio Año 2: 2022	-----------	El periodo es de:	19 años	9 meses	5 días
+
+	MON JUL 25 10:48:48 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de Edad
+OPCIÓN------------> Números Romanos
+547	 =	 DXLVII
+
+	MON JUL 25 12:32:52 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de Área y Perímetro
+Triángulo Isósceles
+Base = 4.0	Lado = 10.0	---> Perímetro = 24.0 u
+
+	WED JUL 27 11:41:24 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de Área y Perímetro
+Triángulo
+Base = 20.0	Altura10.0---> Área = 100.0 u2
+OPCIÓN------------> Cálculo de Volumen
+Esfera
+Radio = 10.0	---> Volumen = 4188.79 u3
+OPCIÓN------------> Números Romanos
+542	 =	 DXLII
+
+	MON AUG 01 09:24:47 COT 2022
+
+====================HISTORIAL CALCULADORA====================
+OPCI�N------------> Conversi�n de Divisas
+USD = 1.0	---->	COP = 3553.1

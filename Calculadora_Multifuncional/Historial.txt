@@ -1,0 +1,42 @@
+
+	TUE MAR 02 12:48:28 COT 2021
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Conversión de Unidades
+Metro a Pulgada	12.0  ------  472.44
+OPCIÓN------------> Conversión de Divisas
+EUR = 123.0	---->	USD = 148.19
+OPCIÓN------------> Cálculo de Edad
+Día 1: 12 Mes 1: Abril Año 1: 2000
+Día 2: 14 Mes 2: Julio Año 2: 2020	-----------	El periodo es de:	20 años	3 meses	2 días
+OPCIÓN------------> Cálculo de IMC
+Peso = 89.0 kg	Altura = 190.0 cm	IMC = 24.7
+OPCIÓN------------> Cálculo de Descuentos
+Precio = $19000.0	Descuento = 56.0%	Precio Final = 8360.0
+OPCIÓN------------> Cálculo de Área y Perímetro
+Triángulo Escaleno
+Lado 1 = 123.0	Lado 2 = 123.0	Lado 3 = 123.0	---> Perímetro = 369.0 u
+Rectángulo
+Base = 123.0	Altura = 123.0	---> Área = 15129.0 u2
+OPCIÓN------------> Cálculo de Volumen
+Cono
+Radio de la base = 123.0Altura = 5.0	---> Volumen = 79215.26 u3
+OPCIÓN------------> Números Romanos
+123	 =	 CXXIII
+MMM	 =	 3000
+	TUE MAR 02 12:53:06 COT 2021
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de IMC
+OPCIÓN------------> Cálculo de IMC
+
+	TUE MAR 02 12:53:22 COT 2021
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de IMC
+
+	TUE MAR 02 13:00:56 COT 2021
+
+====================HISTORIAL CALCULADORA====================
+OPCIÓN------------> Cálculo de Descuentos
+Precio = $17000.0	Descuento = 52.0%	Precio Final = 8160.0
