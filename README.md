@@ -9,5 +9,5 @@ It's a calculator that allows the following features:
 7.  Create a history with all the actions done within the application.
 
 
-#Languages used 💻
+# Languages used 💻
 - JAVA
